@@ -1,0 +1,4 @@
+# RecyleViewDemo
+RecyleView简单的使用
+实现RecyleView的ListView，GridView，横向ListView，横向GridView，瀑布流及增加和删除item功能
+添加分隔，添加动画效果
